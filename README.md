@@ -15,7 +15,9 @@ Our meetup group: https://www.meetup.com/togetherweopensource/
 Our YouTube channel: https://www.youtube.com/channel/UC72SXR0IOrR22lhYZpJnJOw 
 
 Simon Sinek’s book, which REALLY helps to find your passion: https://en.wikipedia.org/w/index.php?title=Start_with_Why&oldid=1044534897 
+
 The Open Source Effect by Benjamin Muskalla: https://www.youtube.com/watch?v=0_88aZq_36Q&t=1s
+
 Ch-ch-changes: A talk about humans and code by Kevlin Henney: https://www.youtube.com/watch?v=5f-RMwTqKok
 
 
