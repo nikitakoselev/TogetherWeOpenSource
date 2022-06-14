@@ -19,11 +19,13 @@ _Together we Open Source._
 
 ### Recommended material
 
-* _Start with Why_ by Simon Sinek, which REALLY helps to find your passion: https://en.wikipedia.org/wiki/Start_with_Why 
+* _Start with Why_ by Simon Sinek, which REALLY helps to find your passion @simonsinek: https://en.wikipedia.org/wiki/Start_with_Why 
 
-* _The Open Source Effect_ by Benjamin Muskalla: https://www.youtube.com/watch?v=0_88aZq_36Q&t=1s
+* _The Open Source Effect_ by Benjamin Muskalla @bmuskalla: https://www.youtube.com/watch?v=0_88aZq_36Q&t=1s
 
-* _Ch-ch-changes: A talk about humans and code_ by Kevlin Henney: https://www.youtube.com/watch?v=5f-RMwTqKok
+* _Ch-ch-changes: A talk about humans and code_ by Kevlin Henney @KevlinHenney: https://www.youtube.com/watch?v=5f-RMwTqKok
+
+* _How to Accelerate Your Staff+ Career through Open Source Engagement_ by Alex Porcelli @porcelli: https://www.infoq.com/articles/staff-plus-open-source-engagement/
 
 ## Ideas of the next steps:
 
