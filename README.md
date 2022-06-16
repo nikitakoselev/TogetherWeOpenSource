@@ -19,7 +19,7 @@ _Together we Open Source._
 
 ### Recommended material
 
-* _Start with Why_ by Simon Sinek, which REALLY helps to find your passion @simonsinek: https://en.wikipedia.org/wiki/Start_with_Why 
+* _[Start with Why](https://en.wikipedia.org/wiki/Start_with_Why)_ by [Simon Sinek](https://twitter.com/simonsinek), which REALLY helps to find your passion 
 
 * _The Open Source Effect_ by Benjamin Muskalla @bmuskalla: https://www.youtube.com/watch?v=0_88aZq_36Q&t=1s
 
