@@ -24,7 +24,7 @@ _Together we Open Source._
 * _[How to Accelerate Your Staff+ Career through Open Source Engagement](https://www.infoq.com/articles/staff-plus-open-source-engagement/)_ by Alex Porcelli @porcelli
 
 ### Our heroes
-* Hiroko Nishimura, AWS Community Hero - [twitter](https://twitter.com/hirokonishimura)
+* [Hiroko Nishimura](https://twitter.com/hirokonishimura), AWS Community Hero
 Thank you, Hiroko for inspiring new generations of contributors-to-be.
 
 
