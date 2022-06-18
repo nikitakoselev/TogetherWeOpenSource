@@ -23,7 +23,7 @@ _Together we Open Source._
 * _[Ch-ch-changes: A talk about humans and code](https://www.youtube.com/watch?v=5f-RMwTqKok)_ by Kevlin Henney @KevlinHenney
 * _[How to Accelerate Your Staff+ Career through Open Source Engagement](https://www.infoq.com/articles/staff-plus-open-source-engagement/)_ by Alex Porcelli @porcelli
 
-### Our heroes
+### Some of the heroes, who inspire us most:
 * [Hiroko Nishimura](https://twitter.com/hirokonishimura), AWS Community Hero
 Thank you, Hiroko for inspiring new generations of contributors-to-be.
 
