@@ -28,7 +28,11 @@ _Together we Open Source._
 * [Hiroko Nishimura](https://twitter.com/hirokonishimura), AWS Community Hero
 Thank you, Hiroko for inspiring new generations of contributors-to-be.
 
-
+## Love & OpenSource relation ##
+* Data Structures & Data Search
+* Sports (football)
+* Java
+* Python
 
 ## Ideas of the next steps:
 
