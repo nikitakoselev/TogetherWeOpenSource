@@ -2,7 +2,7 @@
 
 
 ### Open Questions:
-Open Source vulnerability management - how do you stay ahead of the hackers??
+Open Source vulnerability management - how do you stay ahead of the hackers?
 
 ### Answers:
 
