@@ -2,10 +2,11 @@
 
 
 ### Open Questions:
-Open Source vulnerability management - how do you stay ahead of the hackers?
+
 
 ### Answers:
-
 Q: How can we find videos with answers?
+A: [YouTube channel](https://www.youtube.com/user/nkosele/videos) for "Together We Open Source" 
 
-A: [Here](https://www.youtube.com/user/nkosele/videos) - YouTube channel for Together We Open Source 
+Q: Open Source vulnerability management - how do you stay ahead of the hackers?
+A: [watch this video](https://youtu.be/MRig5L5yIxA) and let us know your ideas
