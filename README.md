@@ -14,7 +14,7 @@ _Together we Open Source._
 
 ## Our Artefacts
 * [Our meetup group](https://www.meetup.com/togetherweopensource/)
-* [Our YouTube channel](https://www.youtube.com/user/nkosele/videos)
+* [Our YouTube channel](https://www.youtube.com/user/nkosele/videos?sub_confirmation=1 )
 * [Our articles at Dev.to](https://dev.to/nikitakoselev)
 
 ### Recommended material
