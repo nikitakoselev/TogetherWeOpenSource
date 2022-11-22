@@ -11,6 +11,10 @@ Most of us, especially those from underprivileged groups, simply do not have mon
 We aim to give everybody a chance to progress in the luxurious world of IT, through contributions to [#OpenSource](https://github.com/topics/opensource) projects. The projects must (and will) be aligned with an individual’s values.
  
 _Together we Open Source._
+## How to start with OSS
+* [Read what OpensSource is and Tweet about it](https://en.wikipedia.org/wiki/Open_source)
+* [Your First Contribution](https://github.com/firstcontributions/first-contributions)
+
 
 ## Our Artefacts
 * [Our meetup group](https://www.meetup.com/togetherweopensource/)
